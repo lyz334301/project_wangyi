@@ -1,0 +1,73 @@
+.fen{
+    height: 1px;
+    width: 100%;
+    box-shadow: 0 0 4px #333;
+    margin-top: 5px;
+    
+}
+.main{
+    height: 500px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.m-mm{
+    height: 500px;
+    width: 1090px;
+    margin: 0 auto;
+}
+.m-main{
+    margin-top: 10px;
+}
+.m-main img{
+    height: 400px;
+    width: 400px;
+    float: left;
+}
+
+
+.m-main b{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.m-main p{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.m-main p span{
+    font-size: 28px;
+    line-height: 30px;
+    margin-left: 2px;
+    color: #d7282d;
+    font-weight: 700;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.m-main p i{
+    display: inline-block;
+    height: 30px;
+    line-height:30px;
+    color: #fff;
+    padding: 0 5px;
+    font-size: 12px;
+    background-color: #e36844;
+    font-style:normal;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+.m-main button{
+    width: 168px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 18px;
+    color: #fff;
+    border: 1px solid #b4a078;
+    background-color: #b4a078;
+    margin-top: 40px;
+    margin-left: 20px;
+}

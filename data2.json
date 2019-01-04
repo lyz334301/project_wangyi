@@ -1,0 +1,50 @@
+{
+    "classify002":{
+        "id":"rx1",
+        "name":"玩趣彩虹四季拖鞋",
+        "src":"qw1.png",
+        "pirce":"￥19.9",
+        "item":"限时购",
+        "list":[
+            {
+                "id":"rx2",
+                "name":"10卷/提 谷风一木 小卷纸",
+                "src":"qw2.png",
+                "pirce":"￥27.9",
+                "item":"限时购"
+            },
+            {
+                "id":"rx3",
+                "name":"6包/提 谷风一木 软抽面巾纸",
+                "src":"qw3png.png",
+                "pirce":"￥18",
+                "item":"限时购"
+            },{
+                "id":"rx4",
+                "name":"色画轻主义男女人字拖 新款",
+                "src":"qw4.png",
+                "pirce":"￥9.9",
+                "item":"限时购"
+            },{
+                "id":"rx5",
+                "name":"大丈夫冻干牛肉面",
+                "src":"qw5.png",
+                "pirce":"￥22.3",
+                "item":"限时购"
+            },{
+                "id":"rx6",
+                "name":"新色 雪麸蛋糕",
+                "src":"qw6.png",
+                "pirce":"￥8.9",
+                "item":"限时购"
+            },{
+                "id":"rx7",
+                "name":"鲜果冻 ",
+                "src":"qw7.png",
+                "pirce":"￥3.9",
+                "item":"限时购"
+            }
+        ]
+    }
+}
+    
